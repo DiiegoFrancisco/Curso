@@ -16,6 +16,7 @@ class ViewController: UIViewController {
         
         let idade = Int (txIdade.text!)! * 7
          lbResult.text = "A idade do Cachorro é " + String (idade)
+        // asfjsajd
         
     }
     
